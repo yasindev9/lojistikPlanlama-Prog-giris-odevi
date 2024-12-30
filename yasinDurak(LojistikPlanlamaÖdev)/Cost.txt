@@ -1,0 +1,6 @@
+Konum (1, 8) - Adres: 00007FF7825AE890
+Konum (1, 2) - Adres: 00007FF7825AE830
+Konum (9, 8) - Adres: 00007FF7825AED90
+Konum (5, 4) - Adres: 00007FF7825AEAD0
+Konum (6, 0) - Adres: 00007FF7825AEB30
+Toplam yol: 1979

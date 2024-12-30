@@ -1,0 +1,1 @@
+Merhabalar hocam. Ödevimde "ConsoleColor.h" kütüphanesini kullandım. Kütüphane dosyası da paylaştığım dosyanın içinde bulunmakta. Kod içerisinde kuryenin geçtiği yollar sarı, müşteriler yeşil olarak belirtilmiştir. Kod bitiminde Cost.txt dosyası oluşturulmaktadır. 

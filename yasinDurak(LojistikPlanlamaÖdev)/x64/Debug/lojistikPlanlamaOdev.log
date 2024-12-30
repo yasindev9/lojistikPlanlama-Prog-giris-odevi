@@ -1,0 +1,5 @@
+﻿  lojistikPlanlamaOdev.cpp
+C:\Users\Yasin\source\repos\lojistikPlanlamaOdev\lojistikPlanlamaOdev\lojistikPlanlamaOdev.cpp(45,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Yasin\source\repos\lojistikPlanlamaOdev\lojistikPlanlamaOdev\lojistikPlanlamaOdev.cpp(58,9): warning C4551: işlev çağrısında bağımsız değişken listesi eksik
+C:\Users\Yasin\source\repos\lojistikPlanlamaOdev\lojistikPlanlamaOdev\lojistikPlanlamaOdev.cpp(61,9): warning C4551: işlev çağrısında bağımsız değişken listesi eksik
+  lojistikPlanlamaOdev.vcxproj -> C:\Users\Yasin\source\repos\lojistikPlanlamaOdev\x64\Debug\lojistikPlanlamaOdev.exe
